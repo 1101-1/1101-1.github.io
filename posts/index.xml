@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 1101-1&#39;s blog</title>
+    <link>https://1101-1.github.io/posts/</link>
+    <description>Recent content in Posts on 1101-1&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 May 2023 15:02:03 +0500</lastBuildDate><atom:link href="https://1101-1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://1101-1.github.io/posts/about/</link>
+      <pubDate>Thu, 25 May 2023 15:02:03 +0500</pubDate>
+      
+      <guid>https://1101-1.github.io/posts/about/</guid>
+      <description>Skilled Rust developer with 1+ year of experience in software development. Strong understanding of Rust programming language and its ecosystem. Proficient in creating efficient and scalable applications. Proven track record of delivering high-quality projects on time. Excellent problem-solving and communication skills. Seeking opportunities to contribute to challenging projects as a Rust Developer.
+Skills:  Rust programming language Software development Object-oriented programming Data structures and algorithms Web development (A few work with React and Lit frameworks) Cryptography API design and implementation Version control (Git)  Experience: Created many pet-project on github.</description>
+    </item>
+    
+  </channel>
+</rss>
